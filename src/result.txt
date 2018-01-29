@@ -1,0 +1,1054 @@
+     lhs                            rhs         support confidence lhs.support     lift count
+[1]  {Art.exhibitions=0,                                                                     
+      Adrenaline.sports=1,                                                                   
+      Smoking_tried.smoking=0}   => {Dance=1} 0.1000000  0.6352201   0.1574257 1.365048   101
+[2]  {Fantasy.Fairy.tales=1,                                                                 
+      Action=1,                                                                              
+      Appearence.and.gestures=1} => {Dance=1} 0.1386139  0.6334842   0.2188119 1.361317   140
+[3]  {Romantic=1,                                                                            
+      Action=1,                                                                              
+      Darkness=1}                => {Dance=1} 0.1099010  0.6271186   0.1752475 1.347638   111
+[4]  {Lying_sometimes=0,                                                                     
+      Appearence.and.gestures=1,                                                             
+      Happiness.in.life=1}       => {Dance=1} 0.1009901  0.6257669   0.1613861 1.344733   102
+[5]  {Art.exhibitions=0,                                                                     
+      Gardening=1,                                                                           
+      Smoking_tried.smoking=0}   => {Dance=1} 0.1039604  0.6250000   0.1663366 1.343085   105
+[6]  {Shopping=1,                                                                            
+      Heights=1,                                                                             
+      Spending.on.looks=1}       => {Dance=1} 0.1128713  0.6229508   0.1811881 1.338682   114
+[7]  {Lying_sometimes=0,                                                                     
+      Happiness.in.life=1,                                                                   
+      Interests.or.hobbies=1}    => {Dance=1} 0.1019802  0.6204819   0.1643564 1.333376   103
+[8]  {Romantic=1,                                                                            
+      Action=1,                                                                              
+      Spending.on.looks=1}       => {Dance=1} 0.1099010  0.6201117   0.1772277 1.332581   111
+[9]  {Theatre=1,                                                                             
+      Happiness.in.life=1,                                                                   
+      Small...big.dogs=1}        => {Dance=1} 0.1029703  0.6190476   0.1663366 1.330294   104
+[10] {Art.exhibitions=0,                                                                     
+      Compassion.to.animals=1,                                                               
+      Spending.on.looks=1}       => {Dance=1} 0.1039604  0.6176471   0.1683168 1.327284   105
+     lhs                       rhs        support confidence lhs.support     lift count
+[1]  {Ageing=1,                                                                        
+      Charity=1,                                                                       
+      New.environment=1}    => {Folk=1} 0.1000000  0.6352201   0.1574257 1.478277   101
+[2]  {Religion=1,                                                                      
+      Charity=1,                                                                       
+      Shopping.centres=1}   => {Folk=1} 0.1029703  0.6265060   0.1643564 1.457998   104
+[3]  {Physics=1,                                                                       
+      Religion=1,                                                                      
+      Giving=1}             => {Folk=1} 0.1178218  0.6263158   0.1881188 1.457555   119
+[4]  {Religion=1,                                                                      
+      Charity=1,                                                                       
+      Branded.clothing=1}   => {Folk=1} 0.1059406  0.6257310   0.1693069 1.456194   107
+[5]  {Rats=1,                                                                          
+      Charity=1,                                                                       
+      Branded.clothing=1}   => {Folk=1} 0.1128713  0.6229508   0.1811881 1.449724   114
+[6]  {Charity=1,                                                                       
+      Shopping.centres=1,                                                              
+      Branded.clothing=1}   => {Folk=1} 0.1059406  0.6220930   0.1702970 1.447728   107
+[7]  {Active.sport=1,                                                                  
+      Darkness=1,                                                                      
+      Charity=1}            => {Folk=1} 0.1138614  0.6216216   0.1831683 1.446631   115
+[8]  {Darkness=1,                                                                      
+      Charity=1,                                                                       
+      Branded.clothing=1}   => {Folk=1} 0.1019802  0.6204819   0.1643564 1.443979   103
+[9]  {Charity=1,                                                                       
+      New.environment=1,                                                               
+      Branded.clothing=1}   => {Folk=1} 0.1039604  0.6176471   0.1683168 1.437381   105
+[10] {Economy.Management=1,                                                            
+      Rats=1,                                                                          
+      Charity=1}            => {Folk=1} 0.1000000  0.6158537   0.1623762 1.433208   101
+     lhs                           rhs           support confidence lhs.support     lift count
+[1]  {Western=1,                                                                              
+      New.environment=1,                                                                      
+      Entertainment.spending=1} => {Country=1} 0.1069307  0.6878981   0.1554455 1.507109   108
+[2]  {Western=1,                                                                              
+      Branded.clothing=1,                                                                     
+      Entertainment.spending=1} => {Country=1} 0.1148515  0.6744186   0.1702970 1.477577   116
+[3]  {Romantic=1,                                                                             
+      Western=1,                                                                              
+      Psychology=1}             => {Country=1} 0.1049505  0.6625000   0.1584158 1.451464   106
+[4]  {Western=1,                                                                              
+      Psychology=1,                                                                           
+      Writing.notes=1}          => {Country=1} 0.1059406  0.6564417   0.1613861 1.438191   107
+[5]  {Western=1,                                                                              
+      Self.criticism=1,                                                                       
+      Entertainment.spending=1} => {Country=1} 0.1039604  0.6562500   0.1584158 1.437771   105
+[6]  {Western=1,                                                                              
+      Energy.levels=1,                                                                        
+      Spending.on.looks=1}      => {Country=1} 0.1059406  0.6524390   0.1623762 1.429422   107
+[7]  {Western=1,                                                                              
+      Psychology=1,                                                                           
+      Branded.clothing=1}       => {Country=1} 0.1059406  0.6524390   0.1623762 1.429422   107
+[8]  {Western=1,                                                                              
+      Psychology=1,                                                                           
+      Storm=1}                  => {Country=1} 0.1069307  0.6506024   0.1643564 1.425398   108
+[9]  {Fantasy.Fairy.tales=1,                                                                  
+      Western=1,                                                                              
+      Entertainment.spending=1} => {Country=1} 0.1049505  0.6503067   0.1613861 1.424750   106
+[10] {Western=1,                                                                              
+      Spiders=1,                                                                              
+      Entertainment.spending=1} => {Country=1} 0.1138614  0.6497175   0.1752475 1.423459   115
+     lhs                                    rhs                   support confidence lhs.support     lift count
+[1]  {Psychology=1,                                                                                            
+      Science.and.technology=1,                                                                                
+      Number.of.friends=1}               => {Classical.music=1} 0.1000000  0.6688742   0.1495050 1.428251   101
+[2]  {Foreign.languages=1,                                                                                     
+      Theatre=1,                                                                                               
+      Lying_sometimes=0}                 => {Classical.music=1} 0.1029703  0.6624204   0.1554455 1.414471   104
+[3]  {Politics=1,                                                                                              
+      Theatre=1,                                                                                               
+      Entertainment.spending=1}          => {Classical.music=1} 0.1000000  0.6601307   0.1514851 1.409581   101
+[4]  {Psychology=1,                                                                                            
+      Science.and.technology=1,                                                                                
+      Eating.to.survive=1}               => {Classical.music=1} 0.1069307  0.6585366   0.1623762 1.406177   108
+[5]  {Psychology=1,                                                                                            
+      Science.and.technology=1,                                                                                
+      Self.criticism=1}                  => {Classical.music=1} 0.1158416  0.6573034   0.1762376 1.403544   117
+[6]  {Psychology=1,                                                                                            
+      Final.judgement=1,                                                                                       
+      Finances=1}                        => {Classical.music=1} 0.1000000  0.6558442   0.1524752 1.400428   101
+[7]  {History=1,                                                                                               
+      Psychology=1,                                                                                            
+      Final.judgement=1}                 => {Classical.music=1} 0.1217822  0.6542553   0.1861386 1.397036   123
+[8]  {Sci.fi=1,                                                                                                
+      Foreign.languages=1,                                                                                     
+      Shopping=0}                        => {Classical.music=1} 0.1019802  0.6518987   0.1564356 1.392004   103
+[9]  {Theatre=1,                                                                                               
+      Punctuality_i.am.always.on.time=0,                                                                       
+      Lying_sometimes=0}                 => {Classical.music=1} 0.1000000  0.6516129   0.1534653 1.391393   101
+[10] {Psychology=1,                                                                                            
+      Final.judgement=1,                                                                                       
+      Interests.or.hobbies=1}            => {Classical.music=1} 0.1128713  0.6514286   0.1732673 1.391000   114
+     lhs                           rhs           support confidence lhs.support     lift count
+[1]  {Theatre=1,                                                                              
+      New.environment=1,                                                                      
+      Unpopularity=1}           => {Musical=1} 0.1099010  0.6851852   0.1603960 1.450811   111
+[2]  {Theatre=1,                                                                              
+      Assertiveness=1,                                                                        
+      Unpopularity=1}           => {Musical=1} 0.1217822  0.6648649   0.1831683 1.407785   123
+[3]  {Action=1,                                                                               
+      Theatre=1,                                                                              
+      Number.of.friends=1}      => {Musical=1} 0.1069307  0.6625767   0.1613861 1.402940   108
+[4]  {Psychology=1,                                                                           
+      Biology=1,                                                                              
+      Science.and.technology=1} => {Musical=1} 0.1089109  0.6586826   0.1653465 1.394695   110
+[5]  {Gardening=1,                                                                            
+      Theatre=1,                                                                              
+      Unpopularity=1}           => {Musical=1} 0.1148515  0.6553672   0.1752475 1.387675   116
+[6]  {Passive.sport=1,                                                                        
+      Theatre=1,                                                                              
+      New.environment=1}        => {Musical=1} 0.1227723  0.6526316   0.1881188 1.381882   124
+[7]  {Theatre=1,                                                                              
+      Unpopularity=1,                                                                         
+      Shopping.centres=1}       => {Musical=1} 0.1207921  0.6524064   0.1851485 1.381406   122
+[8]  {Action=1,                                                                               
+      Theatre=1,                                                                              
+      Entertainment.spending=1} => {Musical=1} 0.1188119  0.6521739   0.1821782 1.380913   120
+[9]  {Law=1,                                                                                  
+      Theatre=1,                                                                              
+      Unpopularity=1}           => {Musical=1} 0.1000000  0.6516129   0.1534653 1.379725   101
+[10] {Theatre=1,                                                                              
+      Loss.of.interest=1,                                                                     
+      Unpopularity=1}           => {Musical=1} 0.1128713  0.6514286   0.1732673 1.379335   114
+     lhs                             rhs       support confidence lhs.support     lift count
+[1]  {Animated=1,                                                                           
+      Personality=1,                                                                        
+      Gender_male=0}              => {Pop=1} 0.1039604  0.7894737   0.1316832 1.346906   105
+[2]  {Romantic=1,                                                                           
+      Foreign.languages=1,                                                                  
+      Dancing=0}                  => {Pop=1} 0.1108911  0.7887324   0.1405941 1.345641   112
+[3]  {Animated=1,                                                                           
+      Personality=1,                                                                        
+      Gender_female=1}            => {Pop=1} 0.1019802  0.7862595   0.1297030 1.341423   103
+[4]  {Romantic=1,                                                                           
+      Documentary=0,                                                                        
+      Knowing.the.right.people=1} => {Pop=1} 0.1009901  0.7846154   0.1287129 1.338617   102
+[5]  {Romantic=1,                                                                           
+      Politics=0,                                                                           
+      Foreign.languages=1}        => {Pop=1} 0.1405941  0.7845304   0.1792079 1.338472   142
+[6]  {Shopping=1,                                                                           
+      Personality=1,                                                                        
+      Gender_male=0}              => {Pop=1} 0.1039604  0.7777778   0.1336634 1.326952   105
+[7]  {Romantic=1,                                                                           
+      Workaholism=0,                                                                        
+      Knowing.the.right.people=1} => {Pop=1} 0.1207921  0.7770701   0.1554455 1.325745   122
+[8]  {Art.exhibitions=0,                                                                    
+      Spending.on.looks=1,                                                                  
+      Gender_female=1}            => {Pop=1} 0.1138614  0.7770270   0.1465347 1.325671   115
+[9]  {Art.exhibitions=0,                                                                    
+      Spending.on.looks=1,                                                                  
+      Gender_male=0}              => {Pop=1} 0.1138614  0.7770270   0.1465347 1.325671   115
+[10] {Romantic=1,                                                                           
+      Rats=0,                                                                               
+      Shopping.centres=1}         => {Pop=1} 0.1089109  0.7746479   0.1405941 1.321612   110
+     lhs                           rhs        support confidence lhs.support     lift count
+[1]  {Documentary=1,                                                                       
+      Prioritising.workload=1,                                                             
+      Loneliness=1}             => {Rock=1} 0.1049505  0.8760331   0.1198020 1.278603   106
+[2]  {Prioritising.workload=1,                                                             
+      Loneliness=1,                                                                        
+      Personality=0}            => {Rock=1} 0.1178218  0.8686131   0.1356436 1.267774   119
+[3]  {Prioritising.workload=1,                                                             
+      Thinking.ahead=1,                                                                    
+      Loneliness=1}             => {Rock=1} 0.1029703  0.8666667   0.1188119 1.264933   104
+[4]  {Gardening=1,                                                                         
+      Prioritising.workload=1,                                                             
+      Loneliness=1}             => {Rock=1} 0.1019802  0.8655462   0.1178218 1.263297   103
+[5]  {History=1,                                                                           
+      Theatre=1,                                                                           
+      Daily.events=1}           => {Rock=1} 0.1188119  0.8633094   0.1376238 1.260032   120
+[6]  {Prioritising.workload=1,                                                             
+      Loneliness=1,                                                                        
+      New.environment=1}        => {Rock=1} 0.1108911  0.8615385   0.1287129 1.257448   112
+[7]  {Prioritising.workload=1,                                                             
+      Loneliness=1,                                                                        
+      Interests.or.hobbies=1}   => {Rock=1} 0.1039604  0.8606557   0.1207921 1.256159   105
+[8]  {Theatre=1,                                                                           
+      Daily.events=1,                                                                      
+      Entertainment.spending=1} => {Rock=1} 0.1099010  0.8604651   0.1277228 1.255881   111
+[9]  {Prioritising.workload=1,                                                             
+      Loneliness=1,                                                                        
+      Waiting=0}                => {Rock=1} 0.1029703  0.8595041   0.1198020 1.254479   104
+[10] {Foreign.languages=1,                                                                 
+      Theatre=1,                                                                           
+      Waiting=1}                => {Rock=1} 0.1019802  0.8583333   0.1188119 1.252770   103
+     lhs                                 rhs                     support confidence lhs.support     lift count
+[1]  {PC=1,                                                                                                   
+      Criminal.damage=1,                                                                                      
+      Happiness.in.life=0}            => {Metal.or.Hardrock=1} 0.1089109  0.8461538   0.1287129 1.369576   110
+[2]  {Writing.notes=1,                                                                                        
+      Criminal.damage=1,                                                                                      
+      Happiness.in.life=0}            => {Metal.or.Hardrock=1} 0.1059406  0.8106061   0.1306931 1.312039   107
+[3]  {Smoking_tried.smoking=0,                                                                                
+      Health=0,                                                                                               
+      Socializing=1}                  => {Metal.or.Hardrock=1} 0.1049505  0.8030303   0.1306931 1.299777   106
+[4]  {Dancing=1,                                                                                              
+      Punctuality_i.am.often.early=1,                                                                         
+      Public.speaking=1}              => {Metal.or.Hardrock=1} 0.1000000  0.8015873   0.1247525 1.297441   101
+[5]  {Animated=1,                                                                                             
+      Final.judgement=1,                                                                                      
+      Friends.versus.money=0}         => {Metal.or.Hardrock=1} 0.1069307  0.8000000   0.1336634 1.294872   108
+[6]  {PC=1,                                                                                                   
+      Fake=1,                                                                                                 
+      Cheating.in.school=1}           => {Metal.or.Hardrock=1} 0.1108911  0.8000000   0.1386139 1.294872   112
+[7]  {Geography=1,                                                                                            
+      Fear.of.public.speaking=1,                                                                              
+      Workaholism=1}                  => {Metal.or.Hardrock=1} 0.1019802  0.7984496   0.1277228 1.292362   103
+[8]  {PC=1,                                                                                                   
+      Art.exhibitions=1,                                                                                      
+      Changing.the.past=1}            => {Metal.or.Hardrock=1} 0.1168317  0.7972973   0.1465347 1.290497   118
+[9]  {PC=1,                                                                                                   
+      Loneliness=1,                                                                                           
+      Knowing.the.right.people=1}     => {Metal.or.Hardrock=1} 0.1009901  0.7968750   0.1267327 1.289814   102
+[10] {Criminal.damage=1,                                                                                      
+      Lying_everytime.it.suits.me=0,                                                                          
+      Happiness.in.life=0}            => {Metal.or.Hardrock=1} 0.1396040  0.7966102   0.1752475 1.289385   141
+     lhs                           rhs        support confidence lhs.support     lift count
+[1]  {Adrenaline.sports=1,                                                                 
+      Waiting=1,                                                                           
+      Weight=0}                 => {Punk=1} 0.1009901  0.7132867   0.1415842 1.298053   102
+[2]  {Physics=1,                                                                           
+      Active.sport=1,                                                                      
+      Dreams=1}                 => {Punk=1} 0.1029703  0.7074830   0.1455446 1.287492   104
+[3]  {Western=1,                                                                           
+      Physics=1,                                                                           
+      Spending.on.gadgets=1}    => {Punk=1} 0.1108911  0.7044025   0.1574257 1.281886   112
+[4]  {Western=1,                                                                           
+      History=1,                                                                           
+      Physics=1}                => {Punk=1} 0.1079208  0.7032258   0.1534653 1.279744   109
+[5]  {Celebrities=1,                                                                       
+      Pets=1,                                                                              
+      Charity=1}                => {Punk=1} 0.1217822  0.7028571   0.1732673 1.279073   123
+[6]  {Western=1,                                                                           
+      Physics=1,                                                                           
+      Parents..advice=1}        => {Punk=1} 0.1029703  0.7027027   0.1465347 1.278792   104
+[7]  {War=1,                                                                               
+      Decision.making=0,                                                                   
+      Shopping.centres=1}       => {Punk=1} 0.1168317  0.7023810   0.1663366 1.278207   118
+[8]  {Western=1,                                                                           
+      Science.and.technology=1,                                                            
+      Gender_male=0}            => {Punk=1} 0.1000000  0.7013889   0.1425743 1.276401   101
+[9]  {Loss.of.interest=1,                                                                  
+      Children=1,                                                                          
+      Spending.on.looks=0}      => {Punk=1} 0.1000000  0.7013889   0.1425743 1.276401   101
+[10] {History=1,                                                                           
+      Chemistry=1,                                                                         
+      Getting.angry=1}          => {Punk=1} 0.1089109  0.7006369   0.1554455 1.275033   110
+     lhs                          rhs               support confidence lhs.support     lift count
+[1]  {Spiders=1,                                                                                 
+      Smoking_tried.smoking=0,                                                                   
+      Personality=1}           => {Hiphop..Rap=1} 0.1049505  0.7969925   0.1316832 1.355156   106
+[2]  {Snakes=1,                                                                                  
+      Assertiveness=1,                                                                           
+      Personality=1}           => {Hiphop..Rap=1} 0.1019802  0.7923077   0.1287129 1.347190   103
+[3]  {Spiders=1,                                                                                 
+      Cheating.in.school=1,                                                                      
+      Personality=1}           => {Hiphop..Rap=1} 0.1059406  0.7867647   0.1346535 1.337765   107
+[4]  {Adrenaline.sports=1,                                                                       
+      Spiders=1,                                                                                 
+      Personality=1}           => {Hiphop..Rap=1} 0.1009901  0.7846154   0.1287129 1.334110   102
+[5]  {Snakes=1,                                                                                  
+      Smoking_tried.smoking=0,                                                                   
+      Personality=1}           => {Hiphop..Rap=1} 0.1009901  0.7786260   0.1297030 1.323926   102
+[6]  {Biology=1,                                                                                 
+      Socializing=1,                                                                             
+      Getting.up=1}            => {Hiphop..Rap=1} 0.1217822  0.7784810   0.1564356 1.323680   123
+[7]  {Internet=1,                                                                                
+      Biology=1,                                                                                 
+      Socializing=1}           => {Hiphop..Rap=1} 0.1316832  0.7777778   0.1693069 1.322484   133
+[8]  {Spiders=1,                                                                                 
+      Self.criticism=1,                                                                          
+      Personality=1}           => {Hiphop..Rap=1} 0.1000000  0.7769231   0.1287129 1.321031   101
+[9]  {Adrenaline.sports=1,                                                                       
+      Snakes=1,                                                                                  
+      Personality=1}           => {Hiphop..Rap=1} 0.1049505  0.7737226   0.1356436 1.315589   106
+[10] {Spiders=1,                                                                                 
+      Personality=1,                                                                             
+      Branded.clothing=1}      => {Hiphop..Rap=1} 0.1079208  0.7730496   0.1396040 1.314445   109
+     lhs                         rhs               support confidence lhs.support     lift count
+[1]  {Theatre=1,                                                                                
+      Heights=1,                                                                                
+      Friends.versus.money=1} => {Reggae..Ska=1} 0.1198020  0.6540541   0.1831683 1.417585   121
+[2]  {Theatre=1,                                                                                
+      Friends.versus.money=1,                                                                   
+      Health=1}               => {Reggae..Ska=1} 0.1089109  0.6285714   0.1732673 1.362354   110
+[3]  {Psychology=1,                                                                             
+      Healthy.eating=1,                                                                         
+      Elections=1}            => {Reggae..Ska=1} 0.1000000  0.6273292   0.1594059 1.359662   101
+[4]  {Mathematics=1,                                                                            
+      Healthy.eating=1,                                                                         
+      Elections=1}            => {Reggae..Ska=1} 0.1049505  0.6272189   0.1673267 1.359423   106
+[5]  {Celebrities=1,                                                                            
+      Theatre=1,                                                                                
+      Friends.versus.money=1} => {Reggae..Ska=1} 0.1326733  0.6232558   0.2128713 1.350833   134
+[6]  {Friends.versus.money=1,                                                                   
+      Eating.to.survive=1,                                                                      
+      Children=1}             => {Reggae..Ska=1} 0.1316832  0.6186047   0.2128713 1.340753   133
+[7]  {Theatre=1,                                                                                
+      Friends.versus.money=1,                                                                   
+      Funniness=1}            => {Reggae..Ska=1} 0.1198020  0.6173469   0.1940594 1.338027   121
+[8]  {Documentary=1,                                                                            
+      Heights=1,                                                                                
+      Eating.to.survive=1}    => {Reggae..Ska=1} 0.1079208  0.6158192   0.1752475 1.334715   109
+[9]  {Adrenaline.sports=1,                                                                      
+      Heights=1,                                                                                
+      Friends.versus.money=1} => {Reggae..Ska=1} 0.1237624  0.6157635   0.2009901 1.334595   125
+[10] {Psychology=1,                                                                             
+      Friends.versus.money=1,                                                                   
+      Children=1}             => {Reggae..Ska=1} 0.1316832  0.6157407   0.2138614 1.334545   133
+     lhs                                rhs               support confidence lhs.support     lift count
+[1]  {Psychology=1,                                                                                    
+      Art.exhibitions=1,                                                                               
+      Ageing=1}                      => {Swing..Jazz=1} 0.1247525  0.7039106   0.1772277 1.416235   126
+[2]  {Western=1,                                                                                       
+      Art.exhibitions=1,                                                                               
+      Science.and.technology=1}      => {Swing..Jazz=1} 0.1039604  0.7000000   0.1485149 1.408367   105
+[3]  {Fantasy.Fairy.tales=1,                                                                           
+      Psychology=1,                                                                                    
+      Art.exhibitions=1}             => {Swing..Jazz=1} 0.1316832  0.6963351   0.1891089 1.400993   133
+[4]  {Western=1,                                                                                       
+      Psychology=1,                                                                                    
+      Art.exhibitions=1}             => {Swing..Jazz=1} 0.1108911  0.6913580   0.1603960 1.390979   112
+[5]  {Psychology=1,                                                                                    
+      Art.exhibitions=1,                                                                               
+      Spiders=1}                     => {Swing..Jazz=1} 0.1405941  0.6893204   0.2039604 1.386880   142
+[6]  {Art.exhibitions=1,                                                                               
+      Ageing=1,                                                                                        
+      Getting.angry=1}               => {Swing..Jazz=1} 0.1029703  0.6887417   0.1495050 1.385715   104
+[7]  {Psychology=1,                                                                                    
+      Politics=1,                                                                                      
+      Getting.angry=1}               => {Swing..Jazz=1} 0.1049505  0.6883117   0.1524752 1.384850   106
+[8]  {Art.exhibitions=1,                                                                               
+      Lying_everytime.it.suits.me=0,                                                                   
+      Questionnaires.or.polls=1}     => {Swing..Jazz=1} 0.1089109  0.6875000   0.1584158 1.383217   110
+[9]  {Western=1,                                                                                       
+      Medicine=1,                                                                                      
+      Art.exhibitions=1}             => {Swing..Jazz=1} 0.1089109  0.6875000   0.1584158 1.383217   110
+[10] {Art.exhibitions=1,                                                                               
+      Ageing=1,                                                                                        
+      Charity=1}                     => {Swing..Jazz=1} 0.1000000  0.6870748   0.1455446 1.382362   101
+     lhs                               rhs               support confidence lhs.support     lift count
+[1]  {Funniness=1,                                                                                    
+      Education_primary.school=0,                                                                     
+      Education_secondary.school=0} => {Rock.n.roll=1} 0.1009901  0.6938776   0.1455446 1.363456   102
+[2]  {Ageing=1,                                                                                       
+      Daily.events=1,                                                                                 
+      Hypochondria=1}               => {Rock.n.roll=1} 0.1059406  0.6858974   0.1544554 1.347775   107
+[3]  {Psychology=1,                                                                                   
+      Geography=1,                                                                                    
+      Hypochondria=1}               => {Rock.n.roll=1} 0.1128713  0.6826347   0.1653465 1.341364   114
+[4]  {Action=1,                                                                                       
+      Ageing=1,                                                                                       
+      Daily.events=1}               => {Rock.n.roll=1} 0.1019802  0.6821192   0.1495050 1.340351   103
+[5]  {Physics=1,                                                                                      
+      Reading=1,                                                                                      
+      Education_secondary.school=0} => {Rock.n.roll=1} 0.1079208  0.6812500   0.1584158 1.338643   109
+[6]  {Sci.fi=1,                                                                                       
+      Geography=1,                                                                                    
+      Ageing=1}                     => {Rock.n.roll=1} 0.1138614  0.6804734   0.1673267 1.337117   115
+[7]  {New.environment=1,                                                                              
+      Mood.swings=1,                                                                                  
+      Branded.clothing=1}           => {Rock.n.roll=1} 0.1009901  0.6800000   0.1485149 1.336187   102
+[8]  {Alcohol_never=0,                                                                                
+      Funniness=1,                                                                                    
+      Education_secondary.school=0} => {Rock.n.roll=1} 0.1089109  0.6790123   0.1603960 1.334246   110
+[9]  {Sci.fi=1,                                                                                       
+      Ageing=1,                                                                                       
+      Dangerous.dogs=1}             => {Rock.n.roll=1} 0.1188119  0.6779661   0.1752475 1.332190   120
+[10] {Sci.fi=1,                                                                                       
+      Ageing=1,                                                                                       
+      Number.of.friends=1}          => {Rock.n.roll=1} 0.1000000  0.6778523   0.1475248 1.331967   101
+     lhs                                     rhs               support confidence lhs.support     lift count
+[1]  {Psychology=1,                                                                                         
+      Reading=1,                                                                                            
+      Loneliness=1}                       => {Alternative=1} 0.1069307  0.7105263   0.1504950 1.338865   108
+[2]  {Prioritising.workload=1,                                                                              
+      Loss.of.interest=1,                                                                                   
+      Assertiveness=1}                    => {Alternative=1} 0.1188119  0.7017544   0.1693069 1.322336   120
+[3]  {Art.exhibitions=1,                                                                                    
+      Snakes=0,                                                                                             
+      Education_primary.school=0}         => {Alternative=1} 0.1069307  0.7012987   0.1524752 1.321477   108
+[4]  {Art.exhibitions=1,                                                                                    
+      Snakes=0,                                                                                             
+      Left...right.handed_left.handed=0}  => {Alternative=1} 0.1039604  0.7000000   0.1485149 1.319030   105
+[5]  {Art.exhibitions=1,                                                                                    
+      Snakes=0,                                                                                             
+      Left...right.handed_right.handed=1} => {Alternative=1} 0.1029703  0.6979866   0.1475248 1.315236   104
+[6]  {Western=1,                                                                                            
+      Lying_sometimes=0,                                                                                    
+      Village...town_city=1}              => {Alternative=1} 0.1079208  0.6942675   0.1554455 1.308228   109
+[7]  {Western=1,                                                                                            
+      Lying_sometimes=0,                                                                                    
+      Village...town_village=0}           => {Alternative=1} 0.1079208  0.6942675   0.1554455 1.308228   109
+[8]  {Action=0,                                                                                             
+      Elections=1,                                                                                          
+      Branded.clothing=1}                 => {Alternative=1} 0.1009901  0.6938776   0.1455446 1.307493   102
+[9]  {Psychology=1,                                                                                         
+      Empathy=1,                                                                                            
+      Loneliness=1}                       => {Alternative=1} 0.1099010  0.6937500   0.1584158 1.307253   111
+[10] {Western=1,                                                                                            
+      Smoking_tried.smoking=0,                                                                              
+      Assertiveness=1}                    => {Alternative=1} 0.1099010  0.6937500   0.1584158 1.307253   111
+     lhs                                    rhs          support confidence lhs.support     lift count
+[1]  {Action=1,                                                                                       
+      Number.of.friends=1,                                                                            
+      Small...big.dogs=1}                => {Latino=1} 0.1039604  0.7046980   0.1475248 1.384718   105
+[2]  {Romantic=1,                                                                                     
+      Economy.Management=1,                                                                           
+      Number.of.friends=1}               => {Latino=1} 0.1009901  0.6938776   0.1455446 1.363456   102
+[3]  {Romantic=1,                                                                                     
+      Western=1,                                                                                      
+      Cheating.in.school=1}              => {Latino=1} 0.1188119  0.6936416   0.1712871 1.362992   120
+[4]  {Romantic=1,                                                                                     
+      Western=1,                                                                                      
+      Giving=1}                          => {Latino=1} 0.1148515  0.6904762   0.1663366 1.356772   116
+[5]  {Number.of.friends=1,                                                                            
+      Punctuality_i.am.always.on.time=0,                                                              
+      Gender_female=1}                   => {Latino=1} 0.1099010  0.6894410   0.1594059 1.354738   111
+[6]  {Number.of.friends=1,                                                                            
+      Punctuality_i.am.always.on.time=0,                                                              
+      Gender_male=0}                     => {Latino=1} 0.1118812  0.6890244   0.1623762 1.353920   113
+[7]  {Romantic=1,                                                                                     
+      Western=1,                                                                                      
+      Borrowed.stuff=1}                  => {Latino=1} 0.1554455  0.6855895   0.2267327 1.347170   157
+[8]  {Western=1,                                                                                      
+      Ageing=0,                                                                                       
+      Empathy=1}                         => {Latino=1} 0.1009901  0.6845638   0.1475248 1.345154   102
+[9]  {Romantic=1,                                                                                     
+      Theatre=1,                                                                                      
+      Number.of.friends=1}               => {Latino=1} 0.1009901  0.6845638   0.1475248 1.345154   102
+[10] {Western=1,                                                                                      
+      Medicine=1,                                                                                     
+      Health=1}                          => {Latino=1} 0.1049505  0.6838710   0.1534653 1.343793   106
+     lhs                                   rhs                  support confidence lhs.support     lift count
+[1]  {Horror=1,                                                                                              
+      Science.and.technology=1,                                                                              
+      Education_secondary.school=0}     => {Techno..Trance=1} 0.1039604  0.7954545   0.1306931 1.334567   105
+[2]  {Physics=1,                                                                                             
+      Loss.of.interest=0,                                                                                    
+      Responding.to.a.serious.letter=1} => {Techno..Trance=1} 0.1039604  0.7894737   0.1316832 1.324532   105
+[3]  {Biology=1,                                                                                             
+      Alcohol_social.drinker=0,                                                                              
+      Compassion.to.animals=1}          => {Techno..Trance=1} 0.1000000  0.7829457   0.1277228 1.313580   101
+[4]  {Law=1,                                                                                                 
+      Healthy.eating=1,                                                                                      
+      Writing.notes=1}                  => {Techno..Trance=1} 0.1029703  0.7819549   0.1316832 1.311918   104
+[5]  {PC=1,                                                                                                  
+      Giving=1,                                                                                              
+      Number.of.siblings=0}             => {Techno..Trance=1} 0.1029703  0.7819549   0.1316832 1.311918   104
+[6]  {Law=1,                                                                                                 
+      Healthy.eating=1,                                                                                      
+      Empathy=1}                        => {Techno..Trance=1} 0.1099010  0.7816901   0.1405941 1.311473   111
+[7]  {Horror=1,                                                                                              
+      Law=1,                                                                                                 
+      Unpopularity=1}                   => {Techno..Trance=1} 0.1405941  0.7802198   0.1801980 1.309007   142
+[8]  {Law=1,                                                                                                 
+      Rats=1,                                                                                                
+      Unpopularity=1}                   => {Techno..Trance=1} 0.1415842  0.7771739   0.1821782 1.303896   143
+[9]  {Horror=1,                                                                                              
+      Cars=1,                                                                                                
+      Finances=1}                       => {Techno..Trance=1} 0.1277228  0.7771084   0.1643564 1.303787   129
+[10] {Medicine=1,                                                                                            
+      Writing.notes=1,                                                                                       
+      Responding.to.a.serious.letter=1} => {Techno..Trance=1} 0.1306931  0.7764706   0.1683168 1.302716   132
+     lhs                                          rhs         support confidence lhs.support     lift count
+[1]  {Thriller=1,                                                                                          
+      Art.exhibitions=1,                                                                                   
+      Charity=1}                               => {Opera=1} 0.1079208  0.7622378   0.1415842 1.425667   109
+[2]  {Heights=1,                                                                                           
+      Charity=1,                                                                                           
+      Parents..advice=0}                       => {Opera=1} 0.1089109  0.7482993   0.1455446 1.399597   110
+[3]  {Art.exhibitions=1,                                                                                   
+      Heights=1,                                                                                           
+      Charity=1}                               => {Opera=1} 0.1059406  0.7482517   0.1415842 1.399508   107
+[4]  {Theatre=1,                                                                                           
+      Charity=1,                                                                                           
+      Parents..advice=0}                       => {Opera=1} 0.1069307  0.7448276   0.1435644 1.393103   108
+[5]  {Romantic=1,                                                                                          
+      Art.exhibitions=1,                                                                                   
+      Charity=1}                               => {Opera=1} 0.1000000  0.7426471   0.1346535 1.389025   101
+[6]  {Art.exhibitions=1,                                                                                   
+      Charity=1,                                                                                           
+      Energy.levels=1}                         => {Opera=1} 0.1079208  0.7414966   0.1455446 1.386873   109
+[7]  {Gardening=1,                                                                                         
+      Decision.making=1,                                                                                   
+      Charity=1}                               => {Opera=1} 0.1009901  0.7391304   0.1366337 1.382448   102
+[8]  {Shopping=1,                                                                                          
+      Charity=1,                                                                                           
+      Questionnaires.or.polls=0}               => {Opera=1} 0.1059406  0.7379310   0.1435644 1.380204   107
+[9]  {Art.exhibitions=1,                                                                                   
+      Charity=1,                                                                                           
+      House...block.of.flats_house.bungalow=0} => {Opera=1} 0.1108911  0.7368421   0.1504950 1.378168   112
+[10] {Darkness=1,                                                                                          
+      Charity=1,                                                                                           
+      House...block.of.flats_house.bungalow=0} => {Opera=1} 0.1188119  0.7361963   0.1613861 1.376960   120
+     lhs                            rhs         support confidence lhs.support     lift count
+[1]  {Art.exhibitions=0,                                                                     
+      Adrenaline.sports=1,                                                                   
+      Smoking_tried.smoking=0}   => {Dance=1} 0.1000000  0.6352201   0.1574257 1.365048   101
+[2]  {Fantasy.Fairy.tales=1,                                                                 
+      Action=1,                                                                              
+      Appearence.and.gestures=1} => {Dance=1} 0.1386139  0.6334842   0.2188119 1.361317   140
+[3]  {Romantic=1,                                                                            
+      Action=1,                                                                              
+      Darkness=1}                => {Dance=1} 0.1099010  0.6271186   0.1752475 1.347638   111
+[4]  {Lying_sometimes=0,                                                                     
+      Appearence.and.gestures=1,                                                             
+      Happiness.in.life=1}       => {Dance=1} 0.1009901  0.6257669   0.1613861 1.344733   102
+[5]  {Art.exhibitions=0,                                                                     
+      Gardening=1,                                                                           
+      Smoking_tried.smoking=0}   => {Dance=1} 0.1039604  0.6250000   0.1663366 1.343085   105
+[6]  {Shopping=1,                                                                            
+      Heights=1,                                                                             
+      Spending.on.looks=1}       => {Dance=1} 0.1128713  0.6229508   0.1811881 1.338682   114
+[7]  {Lying_sometimes=0,                                                                     
+      Happiness.in.life=1,                                                                   
+      Interests.or.hobbies=1}    => {Dance=1} 0.1019802  0.6204819   0.1643564 1.333376   103
+[8]  {Romantic=1,                                                                            
+      Action=1,                                                                              
+      Spending.on.looks=1}       => {Dance=1} 0.1099010  0.6201117   0.1772277 1.332581   111
+[9]  {Theatre=1,                                                                             
+      Happiness.in.life=1,                                                                   
+      Small...big.dogs=1}        => {Dance=1} 0.1029703  0.6190476   0.1663366 1.330294   104
+[10] {Art.exhibitions=0,                                                                     
+      Compassion.to.animals=1,                                                               
+      Spending.on.looks=1}       => {Dance=1} 0.1039604  0.6176471   0.1683168 1.327284   105
+     lhs                       rhs        support confidence lhs.support     lift count
+[1]  {Ageing=1,                                                                        
+      Charity=1,                                                                       
+      New.environment=1}    => {Folk=1} 0.1000000  0.6352201   0.1574257 1.478277   101
+[2]  {Religion=1,                                                                      
+      Charity=1,                                                                       
+      Shopping.centres=1}   => {Folk=1} 0.1029703  0.6265060   0.1643564 1.457998   104
+[3]  {Physics=1,                                                                       
+      Religion=1,                                                                      
+      Giving=1}             => {Folk=1} 0.1178218  0.6263158   0.1881188 1.457555   119
+[4]  {Religion=1,                                                                      
+      Charity=1,                                                                       
+      Branded.clothing=1}   => {Folk=1} 0.1059406  0.6257310   0.1693069 1.456194   107
+[5]  {Rats=1,                                                                          
+      Charity=1,                                                                       
+      Branded.clothing=1}   => {Folk=1} 0.1128713  0.6229508   0.1811881 1.449724   114
+[6]  {Charity=1,                                                                       
+      Shopping.centres=1,                                                              
+      Branded.clothing=1}   => {Folk=1} 0.1059406  0.6220930   0.1702970 1.447728   107
+[7]  {Active.sport=1,                                                                  
+      Darkness=1,                                                                      
+      Charity=1}            => {Folk=1} 0.1138614  0.6216216   0.1831683 1.446631   115
+[8]  {Darkness=1,                                                                      
+      Charity=1,                                                                       
+      Branded.clothing=1}   => {Folk=1} 0.1019802  0.6204819   0.1643564 1.443979   103
+[9]  {Charity=1,                                                                       
+      New.environment=1,                                                               
+      Branded.clothing=1}   => {Folk=1} 0.1039604  0.6176471   0.1683168 1.437381   105
+[10] {Economy.Management=1,                                                            
+      Rats=1,                                                                          
+      Charity=1}            => {Folk=1} 0.1000000  0.6158537   0.1623762 1.433208   101
+     lhs                           rhs           support confidence lhs.support     lift count
+[1]  {Western=1,                                                                              
+      New.environment=1,                                                                      
+      Entertainment.spending=1} => {Country=1} 0.1069307  0.6878981   0.1554455 1.507109   108
+[2]  {Western=1,                                                                              
+      Branded.clothing=1,                                                                     
+      Entertainment.spending=1} => {Country=1} 0.1148515  0.6744186   0.1702970 1.477577   116
+[3]  {Romantic=1,                                                                             
+      Western=1,                                                                              
+      Psychology=1}             => {Country=1} 0.1049505  0.6625000   0.1584158 1.451464   106
+[4]  {Western=1,                                                                              
+      Psychology=1,                                                                           
+      Writing.notes=1}          => {Country=1} 0.1059406  0.6564417   0.1613861 1.438191   107
+[5]  {Western=1,                                                                              
+      Self.criticism=1,                                                                       
+      Entertainment.spending=1} => {Country=1} 0.1039604  0.6562500   0.1584158 1.437771   105
+[6]  {Western=1,                                                                              
+      Energy.levels=1,                                                                        
+      Spending.on.looks=1}      => {Country=1} 0.1059406  0.6524390   0.1623762 1.429422   107
+[7]  {Western=1,                                                                              
+      Psychology=1,                                                                           
+      Branded.clothing=1}       => {Country=1} 0.1059406  0.6524390   0.1623762 1.429422   107
+[8]  {Western=1,                                                                              
+      Psychology=1,                                                                           
+      Storm=1}                  => {Country=1} 0.1069307  0.6506024   0.1643564 1.425398   108
+[9]  {Fantasy.Fairy.tales=1,                                                                  
+      Western=1,                                                                              
+      Entertainment.spending=1} => {Country=1} 0.1049505  0.6503067   0.1613861 1.424750   106
+[10] {Western=1,                                                                              
+      Spiders=1,                                                                              
+      Entertainment.spending=1} => {Country=1} 0.1138614  0.6497175   0.1752475 1.423459   115
+     lhs                                    rhs                   support confidence lhs.support     lift count
+[1]  {Psychology=1,                                                                                            
+      Science.and.technology=1,                                                                                
+      Number.of.friends=1}               => {Classical.music=1} 0.1000000  0.6688742   0.1495050 1.428251   101
+[2]  {Foreign.languages=1,                                                                                     
+      Theatre=1,                                                                                               
+      Lying_sometimes=0}                 => {Classical.music=1} 0.1029703  0.6624204   0.1554455 1.414471   104
+[3]  {Politics=1,                                                                                              
+      Theatre=1,                                                                                               
+      Entertainment.spending=1}          => {Classical.music=1} 0.1000000  0.6601307   0.1514851 1.409581   101
+[4]  {Psychology=1,                                                                                            
+      Science.and.technology=1,                                                                                
+      Eating.to.survive=1}               => {Classical.music=1} 0.1069307  0.6585366   0.1623762 1.406177   108
+[5]  {Psychology=1,                                                                                            
+      Science.and.technology=1,                                                                                
+      Self.criticism=1}                  => {Classical.music=1} 0.1158416  0.6573034   0.1762376 1.403544   117
+[6]  {Psychology=1,                                                                                            
+      Final.judgement=1,                                                                                       
+      Finances=1}                        => {Classical.music=1} 0.1000000  0.6558442   0.1524752 1.400428   101
+[7]  {History=1,                                                                                               
+      Psychology=1,                                                                                            
+      Final.judgement=1}                 => {Classical.music=1} 0.1217822  0.6542553   0.1861386 1.397036   123
+[8]  {Sci.fi=1,                                                                                                
+      Foreign.languages=1,                                                                                     
+      Shopping=0}                        => {Classical.music=1} 0.1019802  0.6518987   0.1564356 1.392004   103
+[9]  {Theatre=1,                                                                                               
+      Punctuality_i.am.always.on.time=0,                                                                       
+      Lying_sometimes=0}                 => {Classical.music=1} 0.1000000  0.6516129   0.1534653 1.391393   101
+[10] {Psychology=1,                                                                                            
+      Final.judgement=1,                                                                                       
+      Interests.or.hobbies=1}            => {Classical.music=1} 0.1128713  0.6514286   0.1732673 1.391000   114
+     lhs                           rhs           support confidence lhs.support     lift count
+[1]  {Theatre=1,                                                                              
+      New.environment=1,                                                                      
+      Unpopularity=1}           => {Musical=1} 0.1099010  0.6851852   0.1603960 1.450811   111
+[2]  {Theatre=1,                                                                              
+      Assertiveness=1,                                                                        
+      Unpopularity=1}           => {Musical=1} 0.1217822  0.6648649   0.1831683 1.407785   123
+[3]  {Action=1,                                                                               
+      Theatre=1,                                                                              
+      Number.of.friends=1}      => {Musical=1} 0.1069307  0.6625767   0.1613861 1.402940   108
+[4]  {Psychology=1,                                                                           
+      Biology=1,                                                                              
+      Science.and.technology=1} => {Musical=1} 0.1089109  0.6586826   0.1653465 1.394695   110
+[5]  {Gardening=1,                                                                            
+      Theatre=1,                                                                              
+      Unpopularity=1}           => {Musical=1} 0.1148515  0.6553672   0.1752475 1.387675   116
+[6]  {Passive.sport=1,                                                                        
+      Theatre=1,                                                                              
+      New.environment=1}        => {Musical=1} 0.1227723  0.6526316   0.1881188 1.381882   124
+[7]  {Theatre=1,                                                                              
+      Unpopularity=1,                                                                         
+      Shopping.centres=1}       => {Musical=1} 0.1207921  0.6524064   0.1851485 1.381406   122
+[8]  {Action=1,                                                                               
+      Theatre=1,                                                                              
+      Entertainment.spending=1} => {Musical=1} 0.1188119  0.6521739   0.1821782 1.380913   120
+[9]  {Law=1,                                                                                  
+      Theatre=1,                                                                              
+      Unpopularity=1}           => {Musical=1} 0.1000000  0.6516129   0.1534653 1.379725   101
+[10] {Theatre=1,                                                                              
+      Loss.of.interest=1,                                                                     
+      Unpopularity=1}           => {Musical=1} 0.1128713  0.6514286   0.1732673 1.379335   114
+     lhs                             rhs       support confidence lhs.support     lift count
+[1]  {Animated=1,                                                                           
+      Personality=1,                                                                        
+      Gender_male=0}              => {Pop=1} 0.1039604  0.7894737   0.1316832 1.346906   105
+[2]  {Romantic=1,                                                                           
+      Foreign.languages=1,                                                                  
+      Dancing=0}                  => {Pop=1} 0.1108911  0.7887324   0.1405941 1.345641   112
+[3]  {Animated=1,                                                                           
+      Personality=1,                                                                        
+      Gender_female=1}            => {Pop=1} 0.1019802  0.7862595   0.1297030 1.341423   103
+[4]  {Romantic=1,                                                                           
+      Documentary=0,                                                                        
+      Knowing.the.right.people=1} => {Pop=1} 0.1009901  0.7846154   0.1287129 1.338617   102
+[5]  {Romantic=1,                                                                           
+      Politics=0,                                                                           
+      Foreign.languages=1}        => {Pop=1} 0.1405941  0.7845304   0.1792079 1.338472   142
+[6]  {Shopping=1,                                                                           
+      Personality=1,                                                                        
+      Gender_male=0}              => {Pop=1} 0.1039604  0.7777778   0.1336634 1.326952   105
+[7]  {Romantic=1,                                                                           
+      Workaholism=0,                                                                        
+      Knowing.the.right.people=1} => {Pop=1} 0.1207921  0.7770701   0.1554455 1.325745   122
+[8]  {Art.exhibitions=0,                                                                    
+      Spending.on.looks=1,                                                                  
+      Gender_female=1}            => {Pop=1} 0.1138614  0.7770270   0.1465347 1.325671   115
+[9]  {Art.exhibitions=0,                                                                    
+      Spending.on.looks=1,                                                                  
+      Gender_male=0}              => {Pop=1} 0.1138614  0.7770270   0.1465347 1.325671   115
+[10] {Romantic=1,                                                                           
+      Rats=0,                                                                               
+      Shopping.centres=1}         => {Pop=1} 0.1089109  0.7746479   0.1405941 1.321612   110
+     lhs                           rhs        support confidence lhs.support     lift count
+[1]  {Documentary=1,                                                                       
+      Prioritising.workload=1,                                                             
+      Loneliness=1}             => {Rock=1} 0.1049505  0.8760331   0.1198020 1.278603   106
+[2]  {Prioritising.workload=1,                                                             
+      Loneliness=1,                                                                        
+      Personality=0}            => {Rock=1} 0.1178218  0.8686131   0.1356436 1.267774   119
+[3]  {Prioritising.workload=1,                                                             
+      Thinking.ahead=1,                                                                    
+      Loneliness=1}             => {Rock=1} 0.1029703  0.8666667   0.1188119 1.264933   104
+[4]  {Gardening=1,                                                                         
+      Prioritising.workload=1,                                                             
+      Loneliness=1}             => {Rock=1} 0.1019802  0.8655462   0.1178218 1.263297   103
+[5]  {History=1,                                                                           
+      Theatre=1,                                                                           
+      Daily.events=1}           => {Rock=1} 0.1188119  0.8633094   0.1376238 1.260032   120
+[6]  {Prioritising.workload=1,                                                             
+      Loneliness=1,                                                                        
+      New.environment=1}        => {Rock=1} 0.1108911  0.8615385   0.1287129 1.257448   112
+[7]  {Prioritising.workload=1,                                                             
+      Loneliness=1,                                                                        
+      Interests.or.hobbies=1}   => {Rock=1} 0.1039604  0.8606557   0.1207921 1.256159   105
+[8]  {Theatre=1,                                                                           
+      Daily.events=1,                                                                      
+      Entertainment.spending=1} => {Rock=1} 0.1099010  0.8604651   0.1277228 1.255881   111
+[9]  {Prioritising.workload=1,                                                             
+      Loneliness=1,                                                                        
+      Waiting=0}                => {Rock=1} 0.1029703  0.8595041   0.1198020 1.254479   104
+[10] {Foreign.languages=1,                                                                 
+      Theatre=1,                                                                           
+      Waiting=1}                => {Rock=1} 0.1019802  0.8583333   0.1188119 1.252770   103
+     lhs                                 rhs                     support confidence lhs.support     lift count
+[1]  {PC=1,                                                                                                   
+      Criminal.damage=1,                                                                                      
+      Happiness.in.life=0}            => {Metal.or.Hardrock=1} 0.1089109  0.8461538   0.1287129 1.369576   110
+[2]  {Writing.notes=1,                                                                                        
+      Criminal.damage=1,                                                                                      
+      Happiness.in.life=0}            => {Metal.or.Hardrock=1} 0.1059406  0.8106061   0.1306931 1.312039   107
+[3]  {Smoking_tried.smoking=0,                                                                                
+      Health=0,                                                                                               
+      Socializing=1}                  => {Metal.or.Hardrock=1} 0.1049505  0.8030303   0.1306931 1.299777   106
+[4]  {Dancing=1,                                                                                              
+      Punctuality_i.am.often.early=1,                                                                         
+      Public.speaking=1}              => {Metal.or.Hardrock=1} 0.1000000  0.8015873   0.1247525 1.297441   101
+[5]  {Animated=1,                                                                                             
+      Final.judgement=1,                                                                                      
+      Friends.versus.money=0}         => {Metal.or.Hardrock=1} 0.1069307  0.8000000   0.1336634 1.294872   108
+[6]  {PC=1,                                                                                                   
+      Fake=1,                                                                                                 
+      Cheating.in.school=1}           => {Metal.or.Hardrock=1} 0.1108911  0.8000000   0.1386139 1.294872   112
+[7]  {Geography=1,                                                                                            
+      Fear.of.public.speaking=1,                                                                              
+      Workaholism=1}                  => {Metal.or.Hardrock=1} 0.1019802  0.7984496   0.1277228 1.292362   103
+[8]  {PC=1,                                                                                                   
+      Art.exhibitions=1,                                                                                      
+      Changing.the.past=1}            => {Metal.or.Hardrock=1} 0.1168317  0.7972973   0.1465347 1.290497   118
+[9]  {PC=1,                                                                                                   
+      Loneliness=1,                                                                                           
+      Knowing.the.right.people=1}     => {Metal.or.Hardrock=1} 0.1009901  0.7968750   0.1267327 1.289814   102
+[10] {Criminal.damage=1,                                                                                      
+      Lying_everytime.it.suits.me=0,                                                                          
+      Happiness.in.life=0}            => {Metal.or.Hardrock=1} 0.1396040  0.7966102   0.1752475 1.289385   141
+     lhs                           rhs        support confidence lhs.support     lift count
+[1]  {Adrenaline.sports=1,                                                                 
+      Waiting=1,                                                                           
+      Weight=0}                 => {Punk=1} 0.1009901  0.7132867   0.1415842 1.298053   102
+[2]  {Physics=1,                                                                           
+      Active.sport=1,                                                                      
+      Dreams=1}                 => {Punk=1} 0.1029703  0.7074830   0.1455446 1.287492   104
+[3]  {Western=1,                                                                           
+      Physics=1,                                                                           
+      Spending.on.gadgets=1}    => {Punk=1} 0.1108911  0.7044025   0.1574257 1.281886   112
+[4]  {Western=1,                                                                           
+      History=1,                                                                           
+      Physics=1}                => {Punk=1} 0.1079208  0.7032258   0.1534653 1.279744   109
+[5]  {Celebrities=1,                                                                       
+      Pets=1,                                                                              
+      Charity=1}                => {Punk=1} 0.1217822  0.7028571   0.1732673 1.279073   123
+[6]  {Western=1,                                                                           
+      Physics=1,                                                                           
+      Parents..advice=1}        => {Punk=1} 0.1029703  0.7027027   0.1465347 1.278792   104
+[7]  {War=1,                                                                               
+      Decision.making=0,                                                                   
+      Shopping.centres=1}       => {Punk=1} 0.1168317  0.7023810   0.1663366 1.278207   118
+[8]  {Western=1,                                                                           
+      Science.and.technology=1,                                                            
+      Gender_male=0}            => {Punk=1} 0.1000000  0.7013889   0.1425743 1.276401   101
+[9]  {Loss.of.interest=1,                                                                  
+      Children=1,                                                                          
+      Spending.on.looks=0}      => {Punk=1} 0.1000000  0.7013889   0.1425743 1.276401   101
+[10] {History=1,                                                                           
+      Chemistry=1,                                                                         
+      Getting.angry=1}          => {Punk=1} 0.1089109  0.7006369   0.1554455 1.275033   110
+     lhs                          rhs               support confidence lhs.support     lift count
+[1]  {Spiders=1,                                                                                 
+      Smoking_tried.smoking=0,                                                                   
+      Personality=1}           => {Hiphop..Rap=1} 0.1049505  0.7969925   0.1316832 1.355156   106
+[2]  {Snakes=1,                                                                                  
+      Assertiveness=1,                                                                           
+      Personality=1}           => {Hiphop..Rap=1} 0.1019802  0.7923077   0.1287129 1.347190   103
+[3]  {Spiders=1,                                                                                 
+      Cheating.in.school=1,                                                                      
+      Personality=1}           => {Hiphop..Rap=1} 0.1059406  0.7867647   0.1346535 1.337765   107
+[4]  {Adrenaline.sports=1,                                                                       
+      Spiders=1,                                                                                 
+      Personality=1}           => {Hiphop..Rap=1} 0.1009901  0.7846154   0.1287129 1.334110   102
+[5]  {Snakes=1,                                                                                  
+      Smoking_tried.smoking=0,                                                                   
+      Personality=1}           => {Hiphop..Rap=1} 0.1009901  0.7786260   0.1297030 1.323926   102
+[6]  {Biology=1,                                                                                 
+      Socializing=1,                                                                             
+      Getting.up=1}            => {Hiphop..Rap=1} 0.1217822  0.7784810   0.1564356 1.323680   123
+[7]  {Internet=1,                                                                                
+      Biology=1,                                                                                 
+      Socializing=1}           => {Hiphop..Rap=1} 0.1316832  0.7777778   0.1693069 1.322484   133
+[8]  {Spiders=1,                                                                                 
+      Self.criticism=1,                                                                          
+      Personality=1}           => {Hiphop..Rap=1} 0.1000000  0.7769231   0.1287129 1.321031   101
+[9]  {Adrenaline.sports=1,                                                                       
+      Snakes=1,                                                                                  
+      Personality=1}           => {Hiphop..Rap=1} 0.1049505  0.7737226   0.1356436 1.315589   106
+[10] {Spiders=1,                                                                                 
+      Personality=1,                                                                             
+      Branded.clothing=1}      => {Hiphop..Rap=1} 0.1079208  0.7730496   0.1396040 1.314445   109
+     lhs                         rhs               support confidence lhs.support     lift count
+[1]  {Theatre=1,                                                                                
+      Heights=1,                                                                                
+      Friends.versus.money=1} => {Reggae..Ska=1} 0.1198020  0.6540541   0.1831683 1.417585   121
+[2]  {Theatre=1,                                                                                
+      Friends.versus.money=1,                                                                   
+      Health=1}               => {Reggae..Ska=1} 0.1089109  0.6285714   0.1732673 1.362354   110
+[3]  {Psychology=1,                                                                             
+      Healthy.eating=1,                                                                         
+      Elections=1}            => {Reggae..Ska=1} 0.1000000  0.6273292   0.1594059 1.359662   101
+[4]  {Mathematics=1,                                                                            
+      Healthy.eating=1,                                                                         
+      Elections=1}            => {Reggae..Ska=1} 0.1049505  0.6272189   0.1673267 1.359423   106
+[5]  {Celebrities=1,                                                                            
+      Theatre=1,                                                                                
+      Friends.versus.money=1} => {Reggae..Ska=1} 0.1326733  0.6232558   0.2128713 1.350833   134
+[6]  {Friends.versus.money=1,                                                                   
+      Eating.to.survive=1,                                                                      
+      Children=1}             => {Reggae..Ska=1} 0.1316832  0.6186047   0.2128713 1.340753   133
+[7]  {Theatre=1,                                                                                
+      Friends.versus.money=1,                                                                   
+      Funniness=1}            => {Reggae..Ska=1} 0.1198020  0.6173469   0.1940594 1.338027   121
+[8]  {Documentary=1,                                                                            
+      Heights=1,                                                                                
+      Eating.to.survive=1}    => {Reggae..Ska=1} 0.1079208  0.6158192   0.1752475 1.334715   109
+[9]  {Adrenaline.sports=1,                                                                      
+      Heights=1,                                                                                
+      Friends.versus.money=1} => {Reggae..Ska=1} 0.1237624  0.6157635   0.2009901 1.334595   125
+[10] {Psychology=1,                                                                             
+      Friends.versus.money=1,                                                                   
+      Children=1}             => {Reggae..Ska=1} 0.1316832  0.6157407   0.2138614 1.334545   133
+     lhs                                rhs               support confidence lhs.support     lift count
+[1]  {Psychology=1,                                                                                    
+      Art.exhibitions=1,                                                                               
+      Ageing=1}                      => {Swing..Jazz=1} 0.1247525  0.7039106   0.1772277 1.416235   126
+[2]  {Western=1,                                                                                       
+      Art.exhibitions=1,                                                                               
+      Science.and.technology=1}      => {Swing..Jazz=1} 0.1039604  0.7000000   0.1485149 1.408367   105
+[3]  {Fantasy.Fairy.tales=1,                                                                           
+      Psychology=1,                                                                                    
+      Art.exhibitions=1}             => {Swing..Jazz=1} 0.1316832  0.6963351   0.1891089 1.400993   133
+[4]  {Western=1,                                                                                       
+      Psychology=1,                                                                                    
+      Art.exhibitions=1}             => {Swing..Jazz=1} 0.1108911  0.6913580   0.1603960 1.390979   112
+[5]  {Psychology=1,                                                                                    
+      Art.exhibitions=1,                                                                               
+      Spiders=1}                     => {Swing..Jazz=1} 0.1405941  0.6893204   0.2039604 1.386880   142
+[6]  {Art.exhibitions=1,                                                                               
+      Ageing=1,                                                                                        
+      Getting.angry=1}               => {Swing..Jazz=1} 0.1029703  0.6887417   0.1495050 1.385715   104
+[7]  {Psychology=1,                                                                                    
+      Politics=1,                                                                                      
+      Getting.angry=1}               => {Swing..Jazz=1} 0.1049505  0.6883117   0.1524752 1.384850   106
+[8]  {Art.exhibitions=1,                                                                               
+      Lying_everytime.it.suits.me=0,                                                                   
+      Questionnaires.or.polls=1}     => {Swing..Jazz=1} 0.1089109  0.6875000   0.1584158 1.383217   110
+[9]  {Western=1,                                                                                       
+      Medicine=1,                                                                                      
+      Art.exhibitions=1}             => {Swing..Jazz=1} 0.1089109  0.6875000   0.1584158 1.383217   110
+[10] {Art.exhibitions=1,                                                                               
+      Ageing=1,                                                                                        
+      Charity=1}                     => {Swing..Jazz=1} 0.1000000  0.6870748   0.1455446 1.382362   101
+     lhs                               rhs               support confidence lhs.support     lift count
+[1]  {Funniness=1,                                                                                    
+      Education_primary.school=0,                                                                     
+      Education_secondary.school=0} => {Rock.n.roll=1} 0.1009901  0.6938776   0.1455446 1.363456   102
+[2]  {Ageing=1,                                                                                       
+      Daily.events=1,                                                                                 
+      Hypochondria=1}               => {Rock.n.roll=1} 0.1059406  0.6858974   0.1544554 1.347775   107
+[3]  {Psychology=1,                                                                                   
+      Geography=1,                                                                                    
+      Hypochondria=1}               => {Rock.n.roll=1} 0.1128713  0.6826347   0.1653465 1.341364   114
+[4]  {Action=1,                                                                                       
+      Ageing=1,                                                                                       
+      Daily.events=1}               => {Rock.n.roll=1} 0.1019802  0.6821192   0.1495050 1.340351   103
+[5]  {Physics=1,                                                                                      
+      Reading=1,                                                                                      
+      Education_secondary.school=0} => {Rock.n.roll=1} 0.1079208  0.6812500   0.1584158 1.338643   109
+[6]  {Sci.fi=1,                                                                                       
+      Geography=1,                                                                                    
+      Ageing=1}                     => {Rock.n.roll=1} 0.1138614  0.6804734   0.1673267 1.337117   115
+[7]  {New.environment=1,                                                                              
+      Mood.swings=1,                                                                                  
+      Branded.clothing=1}           => {Rock.n.roll=1} 0.1009901  0.6800000   0.1485149 1.336187   102
+[8]  {Alcohol_never=0,                                                                                
+      Funniness=1,                                                                                    
+      Education_secondary.school=0} => {Rock.n.roll=1} 0.1089109  0.6790123   0.1603960 1.334246   110
+[9]  {Sci.fi=1,                                                                                       
+      Ageing=1,                                                                                       
+      Dangerous.dogs=1}             => {Rock.n.roll=1} 0.1188119  0.6779661   0.1752475 1.332190   120
+[10] {Sci.fi=1,                                                                                       
+      Ageing=1,                                                                                       
+      Number.of.friends=1}          => {Rock.n.roll=1} 0.1000000  0.6778523   0.1475248 1.331967   101
+     lhs                                     rhs               support confidence lhs.support     lift count
+[1]  {Psychology=1,                                                                                         
+      Reading=1,                                                                                            
+      Loneliness=1}                       => {Alternative=1} 0.1069307  0.7105263   0.1504950 1.338865   108
+[2]  {Prioritising.workload=1,                                                                              
+      Loss.of.interest=1,                                                                                   
+      Assertiveness=1}                    => {Alternative=1} 0.1188119  0.7017544   0.1693069 1.322336   120
+[3]  {Art.exhibitions=1,                                                                                    
+      Snakes=0,                                                                                             
+      Education_primary.school=0}         => {Alternative=1} 0.1069307  0.7012987   0.1524752 1.321477   108
+[4]  {Art.exhibitions=1,                                                                                    
+      Snakes=0,                                                                                             
+      Left...right.handed_left.handed=0}  => {Alternative=1} 0.1039604  0.7000000   0.1485149 1.319030   105
+[5]  {Art.exhibitions=1,                                                                                    
+      Snakes=0,                                                                                             
+      Left...right.handed_right.handed=1} => {Alternative=1} 0.1029703  0.6979866   0.1475248 1.315236   104
+[6]  {Western=1,                                                                                            
+      Lying_sometimes=0,                                                                                    
+      Village...town_city=1}              => {Alternative=1} 0.1079208  0.6942675   0.1554455 1.308228   109
+[7]  {Western=1,                                                                                            
+      Lying_sometimes=0,                                                                                    
+      Village...town_village=0}           => {Alternative=1} 0.1079208  0.6942675   0.1554455 1.308228   109
+[8]  {Action=0,                                                                                             
+      Elections=1,                                                                                          
+      Branded.clothing=1}                 => {Alternative=1} 0.1009901  0.6938776   0.1455446 1.307493   102
+[9]  {Psychology=1,                                                                                         
+      Empathy=1,                                                                                            
+      Loneliness=1}                       => {Alternative=1} 0.1099010  0.6937500   0.1584158 1.307253   111
+[10] {Western=1,                                                                                            
+      Smoking_tried.smoking=0,                                                                              
+      Assertiveness=1}                    => {Alternative=1} 0.1099010  0.6937500   0.1584158 1.307253   111
+     lhs                                    rhs          support confidence lhs.support     lift count
+[1]  {Action=1,                                                                                       
+      Number.of.friends=1,                                                                            
+      Small...big.dogs=1}                => {Latino=1} 0.1039604  0.7046980   0.1475248 1.384718   105
+[2]  {Romantic=1,                                                                                     
+      Economy.Management=1,                                                                           
+      Number.of.friends=1}               => {Latino=1} 0.1009901  0.6938776   0.1455446 1.363456   102
+[3]  {Romantic=1,                                                                                     
+      Western=1,                                                                                      
+      Cheating.in.school=1}              => {Latino=1} 0.1188119  0.6936416   0.1712871 1.362992   120
+[4]  {Romantic=1,                                                                                     
+      Western=1,                                                                                      
+      Giving=1}                          => {Latino=1} 0.1148515  0.6904762   0.1663366 1.356772   116
+[5]  {Number.of.friends=1,                                                                            
+      Punctuality_i.am.always.on.time=0,                                                              
+      Gender_female=1}                   => {Latino=1} 0.1099010  0.6894410   0.1594059 1.354738   111
+[6]  {Number.of.friends=1,                                                                            
+      Punctuality_i.am.always.on.time=0,                                                              
+      Gender_male=0}                     => {Latino=1} 0.1118812  0.6890244   0.1623762 1.353920   113
+[7]  {Romantic=1,                                                                                     
+      Western=1,                                                                                      
+      Borrowed.stuff=1}                  => {Latino=1} 0.1554455  0.6855895   0.2267327 1.347170   157
+[8]  {Western=1,                                                                                      
+      Ageing=0,                                                                                       
+      Empathy=1}                         => {Latino=1} 0.1009901  0.6845638   0.1475248 1.345154   102
+[9]  {Romantic=1,                                                                                     
+      Theatre=1,                                                                                      
+      Number.of.friends=1}               => {Latino=1} 0.1009901  0.6845638   0.1475248 1.345154   102
+[10] {Western=1,                                                                                      
+      Medicine=1,                                                                                     
+      Health=1}                          => {Latino=1} 0.1049505  0.6838710   0.1534653 1.343793   106
+     lhs                                   rhs                  support confidence lhs.support     lift count
+[1]  {Horror=1,                                                                                              
+      Science.and.technology=1,                                                                              
+      Education_secondary.school=0}     => {Techno..Trance=1} 0.1039604  0.7954545   0.1306931 1.334567   105
+[2]  {Physics=1,                                                                                             
+      Loss.of.interest=0,                                                                                    
+      Responding.to.a.serious.letter=1} => {Techno..Trance=1} 0.1039604  0.7894737   0.1316832 1.324532   105
+[3]  {Biology=1,                                                                                             
+      Alcohol_social.drinker=0,                                                                              
+      Compassion.to.animals=1}          => {Techno..Trance=1} 0.1000000  0.7829457   0.1277228 1.313580   101
+[4]  {Law=1,                                                                                                 
+      Healthy.eating=1,                                                                                      
+      Writing.notes=1}                  => {Techno..Trance=1} 0.1029703  0.7819549   0.1316832 1.311918   104
+[5]  {PC=1,                                                                                                  
+      Giving=1,                                                                                              
+      Number.of.siblings=0}             => {Techno..Trance=1} 0.1029703  0.7819549   0.1316832 1.311918   104
+[6]  {Law=1,                                                                                                 
+      Healthy.eating=1,                                                                                      
+      Empathy=1}                        => {Techno..Trance=1} 0.1099010  0.7816901   0.1405941 1.311473   111
+[7]  {Horror=1,                                                                                              
+      Law=1,                                                                                                 
+      Unpopularity=1}                   => {Techno..Trance=1} 0.1405941  0.7802198   0.1801980 1.309007   142
+[8]  {Law=1,                                                                                                 
+      Rats=1,                                                                                                
+      Unpopularity=1}                   => {Techno..Trance=1} 0.1415842  0.7771739   0.1821782 1.303896   143
+[9]  {Horror=1,                                                                                              
+      Cars=1,                                                                                                
+      Finances=1}                       => {Techno..Trance=1} 0.1277228  0.7771084   0.1643564 1.303787   129
+[10] {Medicine=1,                                                                                            
+      Writing.notes=1,                                                                                       
+      Responding.to.a.serious.letter=1} => {Techno..Trance=1} 0.1306931  0.7764706   0.1683168 1.302716   132
+     lhs                                          rhs         support confidence lhs.support     lift count
+[1]  {Thriller=1,                                                                                          
+      Art.exhibitions=1,                                                                                   
+      Charity=1}                               => {Opera=1} 0.1079208  0.7622378   0.1415842 1.425667   109
+[2]  {Heights=1,                                                                                           
+      Charity=1,                                                                                           
+      Parents..advice=0}                       => {Opera=1} 0.1089109  0.7482993   0.1455446 1.399597   110
+[3]  {Art.exhibitions=1,                                                                                   
+      Heights=1,                                                                                           
+      Charity=1}                               => {Opera=1} 0.1059406  0.7482517   0.1415842 1.399508   107
+[4]  {Theatre=1,                                                                                           
+      Charity=1,                                                                                           
+      Parents..advice=0}                       => {Opera=1} 0.1069307  0.7448276   0.1435644 1.393103   108
+[5]  {Romantic=1,                                                                                          
+      Art.exhibitions=1,                                                                                   
+      Charity=1}                               => {Opera=1} 0.1000000  0.7426471   0.1346535 1.389025   101
+[6]  {Art.exhibitions=1,                                                                                   
+      Charity=1,                                                                                           
+      Energy.levels=1}                         => {Opera=1} 0.1079208  0.7414966   0.1455446 1.386873   109
+[7]  {Gardening=1,                                                                                         
+      Decision.making=1,                                                                                   
+      Charity=1}                               => {Opera=1} 0.1009901  0.7391304   0.1366337 1.382448   102
+[8]  {Shopping=1,                                                                                          
+      Charity=1,                                                                                           
+      Questionnaires.or.polls=0}               => {Opera=1} 0.1059406  0.7379310   0.1435644 1.380204   107
+[9]  {Art.exhibitions=1,                                                                                   
+      Charity=1,                                                                                           
+      House...block.of.flats_house.bungalow=0} => {Opera=1} 0.1108911  0.7368421   0.1504950 1.378168   112
+[10] {Darkness=1,                                                                                          
+      Charity=1,                                                                                           
+      House...block.of.flats_house.bungalow=0} => {Opera=1} 0.1188119  0.7361963   0.1613861 1.376960   120
