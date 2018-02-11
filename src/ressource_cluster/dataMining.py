@@ -5,7 +5,7 @@ import csv;
 
         
 # les reponses sur les musiques uniquement
-with open("responses.csv", "r") as fichier:
+with open("../../Source/responses.csv", "r") as fichier:
     cr = csv.reader(fichier,delimiter=";");
     rempli = True;
     
@@ -31,7 +31,7 @@ with open("responses.csv", "r") as fichier:
             
         
 # les reponses sur les musiques et les films
-with open("responses.csv", "r") as fichier:
+with open("../../Source/responses.csv", "r") as fichier:
     cr = csv.reader(fichier,delimiter=";");
     rempli = True;
     
@@ -57,7 +57,7 @@ with open("responses.csv", "r") as fichier:
             
             
 # les reponses sur les musiques et les films
-with open("responses.csv", "r") as fichier:
+with open("../../Source/responses.csv", "r") as fichier:
     cr = csv.reader(fichier,delimiter=";");
     rempli = True;
     
